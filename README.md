@@ -1,0 +1,1 @@
+# Sequence-detector-1001-moore-model
