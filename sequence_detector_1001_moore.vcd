@@ -1,0 +1,47 @@
+$date
+	Fri Nov 13 11:05:46 2026
+$end
+
+$version
+	Synopsys VCS version W-2024.09-SP2_Full64
+$end
+
+$timescale
+	1ps
+$end
+
+$comment Csum: 1 b6d688bd74dda8ef $end
+
+
+$scope module tb_sequence_detector_1001_moore $end
+$var reg 1 ! clk $end
+$var reg 1 " reset $end
+$var reg 1 # x $end
+$var wire 1 $ z $end
+
+$scope module uut $end
+$var reg 3 % current_state [2:0] $end
+$var wire 1 & clk $end
+$var wire 1 ' reset $end
+$var wire 1 ( x $end
+$var reg 1 ) z $end
+$var reg 3 * next_state [2:0] $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+
+#0
+$dumpvars
+0!
+1"
+1'
+0(
+0)
+0#
+0$
+b000 %
+b000 *
+0&
+$end
